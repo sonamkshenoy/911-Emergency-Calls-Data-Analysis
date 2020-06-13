@@ -8,4 +8,32 @@
 * timeStamp: String variable (not timestamp), YYYY-MM-DD HH:MM:SS
 * twp: String variable, Township
 * addr: String variable, Address
-* e: String variable, Dummy variable (always 1)
+* e: String variable, Dummy variable (always 1)   
+
+
+19401.0    :  Norristown, Pennsylvania, United States   
+19464.0    :  Pottstown, Pennsylvania, United States   
+19403.0    :  Eagleville, Pennsylvania, United States   
+19446.0    :  Lansdale, Pennsylvania, United States   
+19406.0    :  King of Prussia, Pennsylvania, United States      
+
+----
+
+Pottstown is a borough in Montgomery County, Pennsylvania, United States about 40 miles northwest of Philadelphia
+Eagleville is a city in Rutherford County, Tennessee.  
+Lansdale is a borough in Montgomery County, Pennsylvania, northwest of Philadelphia.  
+King of Prussia is a census-designated place in Upper Merion Township, Montgomery County, Pennsylvania, United States.
+
+----
+
+Lower Merion Township is a township in Montgomery County, Pennsylvania and part of the Philadelphia Main Line.  
+Abington Township is a township in Montgomery County, Pennsylvania, United States, adjacent to Philadelphia's northern fringe.   
+Norristown is a borough in and the county seat of Montgomery County, Pennsylvania in the Philadelphia metropolitan area.   
+Upper Merion Township is a township in Montgomery County, Pennsylvania, United States.   
+Cheltenham is an unincorporated community in Cheltenham Township, Montgomery County, Pennsylvania, United States, with a ZIP code of 19012.   
+
+-----
+
+Many of the cities in Pennsylvania were boroughs that sought recognition as cities as they grew bigger. Today, a borough with at least 10,000 people can ask to become a city by putting the question to its voters. Boroughs are defined, incorporated political subdivisions, but they tend to be smaller than cities. Most of the 959 boroughs in Pennsylvania, for example, have populations under 5,000, though there are exceptions. Boroughs follow a Borough Code. Townships are, generally, even smaller than boroughs, though there’s a lot of variation with that, as well. Pennsylvania’s 1,546 townships are separated into two classifications; by default a township is a second class township, but if it has at least 300 people per square mile it can offer residents the chance to vote the township into first class status.  There is just one incorporated town in Pennsylvania, Bloomsburg.   
+
+A borough is a self-governing entity that is generally smaller than a city. If an area is not governed by either a borough or city, then the area is governed as a township. Villages or hamlets are unincorporated and have no municipal government, other than the township in which they are found. County governments serve a larger geographical area than cities and towns, but a smaller area than states.
